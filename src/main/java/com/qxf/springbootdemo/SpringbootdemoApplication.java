@@ -10,6 +10,6 @@ public class SpringbootdemoApplication {
         SpringApplication.run(SpringbootdemoApplication.class, args);
     }
     public void test(){
-        System.out.println("分支");
+        System.out.println("分支 ");
     }
 }
